@@ -1,0 +1,25 @@
+.app-container{
+  display:flex;
+}
+.headerFooterDiv{
+  width:100%;
+}
+.sidebar{
+  min-height:800px;
+  width:180px;
+}
+.createPost{
+  width:80%;
+  margin-left:10%;
+  margin-top:4%;
+}
+.blank{
+  margin-top:5%;
+}
+.btn-style{
+  border:1px solid black;
+  border-radius:40px;
+}
+.emptyAndLoadingStyle{
+  margin:10%;
+}
